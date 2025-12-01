@@ -1,6 +1,6 @@
+package com.pluralsight;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import com.pluralsight.*;
 
 public class App {
     final static Logger logger = LogManager.getLogger(App.class);
